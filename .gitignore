@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 Content/StarterContent
+Build
 *.sh
 .vscode
 .vs
